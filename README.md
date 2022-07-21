@@ -1,3 +1,5 @@
+Ground-up implementation of basic classification neural networks.
+
 Before running the code in this directory, please create a new `conda`
 environment by running:
 ```sh
